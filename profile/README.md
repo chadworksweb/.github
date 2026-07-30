@@ -23,9 +23,9 @@ No Squarespace, no Wix, no Divi, no Elementor, no templates. No problem.
 
 ## Selected Work
 
-| | | Source |
+| Name | Description | Source |
 |---|---|---|
-| [chadworks.co](https://chadworks.co) | This studio's own site. Static export, custom coded, no CMS in front of it. | [chadworks-static](https://github.com/chadworksweb/chadworks-static) |
+| [chadworks™](https://chadworks.co) | This studio's own site. Static export, custom coded, no CMS in front of it. | [chadworks-static](https://github.com/chadworksweb/chadworks-static) |
 | [Rising Compass](https://risingcompass.net) | A data product that classifies popular music by the charge its lyrics carry. Custom coded end to end, from the scoring engine to the interface. | [risingcompass](https://github.com/chadworksweb/risingcompass) |
 | [The Illus Caden](https://illuscaden.com) | Illuminating the cracks in the machine. | [illuscaden](https://github.com/chadworksweb/illuscaden) |
 | [Lyrical Charger](https://risingcompass.net/lyrical-charger/) | A free tool that reads a song's lyrics against a published rubric and returns what the song does to the listener. No account needed to run one. | [risingcompass](https://github.com/chadworksweb/risingcompass) |
