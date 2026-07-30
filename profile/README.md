@@ -13,9 +13,11 @@ to shake the Earth beneath our institutionalized culture and society.
 
 ## How I Build
 
-Every site is written from scratch. That is why a chadworks build loads fast,
-reads clearly to both a search engine and an AI assistant, and can do things a
-page builder cannot.
+Every site starts from scratch or a foundation I already built from scratch. 
+That is why a chadworks build loads fast, reads clearly to both a search engine
+and an AI assistant, and can do things a page builder cannot.
+(Yes, I use  AI coding assistants. They have allowed me to create things
+that just weren't possible before.)
 
 No Squarespace, no Wix, no Divi, no Elementor, no templates. No problem.
 
