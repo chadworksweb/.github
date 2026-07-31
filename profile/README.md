@@ -1,6 +1,6 @@
 # chadworks
 
-**Custom Coded Websites for Ambitious Ideas.**
+**Building digital destinations for ambitious ideas.**
 
 chadworks is a one-person web studio run by me, [Chad Lewine](https://chadworks.co/about/).
 I build websites and platforms for motivated individuals and organizations that
